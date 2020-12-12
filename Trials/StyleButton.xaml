@@ -1,0 +1,18 @@
+﻿<Window x:Class="Trials.StyleButton"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trials"
+        mc:Ignorable="d"
+        Title="StyleButton" Height="450" Width="800">
+
+    <Grid>
+        <StackPanel >
+            <Button Height="61"  Content="Button" Margin="0,0,596,0"/>
+            <Button Height="61" Content="Button" Margin="0,0,596,0"/>
+            <Button Height="66" Content="Button" Margin="0,0,596,0"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
